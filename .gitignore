@@ -1,0 +1,33 @@
+# Database files
+*.db
+shadow_specter.db
+
+# Configuration files (user-generated)
+shadow_config.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Screenshots (for testing only - not logo.png or services.json as they are deliverables)
+screenshot_*.png
